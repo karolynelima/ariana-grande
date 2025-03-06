@@ -1,5 +1,5 @@
 // @flow
-export const ArtistName = "taylor swift";
+export const ArtistName = "ariana grande";
 
 export const ModalText =
   'Search for a word or a phrase and see all the places Taylor Swift \
@@ -13,19 +13,14 @@ export const ModalText =
 
 // Ordered list of albums for selector - keep in sync with album map
 export const ALBUMS = [
-  "Taylor Swift",
-  "Beautiful Eyes",
-  "Fearless",
-  "Speak Now",
-  "Red",
-  "1989",
-  "reputation",
-  "Lover",
-  "folklore",
-  "evermore",
-  "Midnights",
-  "The Tortured Poets Department",
-  "Collaborations",
-  "Movie Soundtracks",
-  "Holiday Music"
+  "Yours Truly",
+  "My Everything",
+  "Dangerous Woman",
+  "Sweetener",
+  "Thank U, Next",
+  "Positions",
+  "Eternal Sunshine",
+  "Christmas Kisses",
+  "Christmas & Chill",
+  "K Bye for Now (SWT Live)"
 ];
